@@ -1,7 +1,7 @@
 #  123.hp.com/setup
 
 
-[![123.hp.com/setup](getstaredd.png)](http://hp123-setup.s3-website-us-west-1.amazonaws.com)
+[![123.hp.com/setup](image.png)](http://hp123-setup.s3-website-us-west-1.amazonaws.com)
 
 HP printer drivers will help to install the latest and updated drivers software for your HP Printer. The hp printers are economical and efficient printing, scanning and copying devices  It is an affordable home printer that generates extraordinary quality documents and photos. **[123.hp.com/setup](https://github.com/123setup-hp/123hpcomsetup)** is a hp official website that helps the users to get easy and simple installation and downloading steps and setup hp printer.
 
